@@ -1,0 +1,9 @@
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\bin\Debug\teller.exe
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\bin\Debug\teller.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\bin\Debug\teller.xml
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\obj\x86\Debug\teller.vbproj.GenerateResource.Cache
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\obj\x86\Debug\teller.exe
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\obj\x86\Debug\teller.xml
+C:\Users\asus\documents\visual studio 2010\Projects\teller\teller\obj\x86\Debug\teller.pdb
